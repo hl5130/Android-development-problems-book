@@ -4,3 +4,8 @@
 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
 # 欢迎各位Coder再项目中记录自己问题
 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+
+# 问题
+## Android Studio
+- [使用Git切换分支的时候，Android Studio的项目会出现 Error：Please select Android SDK](https://github.com/hl5130/Android-development-problems-book/issues/1)
+## Git
